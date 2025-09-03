@@ -21,8 +21,6 @@ A compact, reproducible portfolio of academic Data Analytics projects. It showca
 | F1 Analysis | EDA / Viz | pandas, plotly/matplotlib | Race pace & pit strategy insights, storytelling | `notebooks/progetto_analisi_f1.ipynb` |
 | Air Disasters Analysis | EDA / Time series | pandas, matplotlib | Long‑term trends, safety insights, seasonality | `notebooks/analisi_disastri_aerei.ipynb` |
 
-> Replace notebook paths if different in your repo, and add/remove rows as needed.
-
 ---
 
 ## Quickstart
@@ -60,7 +58,7 @@ jupyter lab   # or: jupyter notebook
 
 ---
 
-## Repository structure (suggested)
+## Repository structure
 ```
 .
 ├── notebooks/                 # Exploratory notebooks (thin; call functions from /src)
