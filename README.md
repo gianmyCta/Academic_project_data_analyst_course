@@ -29,7 +29,7 @@ A compact, reproducible portfolio of academic Data Analytics projects. It showca
 
 ### 1) Clone & create a virtual environment
 ```bash
-git clone https://github.com/<your-user>/Academic_project_data_analyst_course.git
+git clone https://github.com/gianmyCta/Academic_project_data_analyst_course.git
 cd Academic_project_data_analyst_course
 
 # macOS/Linux
