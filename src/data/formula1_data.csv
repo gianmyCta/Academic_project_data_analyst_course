@@ -1,0 +1,181 @@
+Driver,Team,Race,Country,Position
+Hamilton,McLaren,Melbourne,Australia,1
+Massa,Ferrari,Melbourne,Australia,0
+Raikkonen,Ferrari,Melbourne,Australia,8
+Kubica,BMW,Melbourne,Australia,0
+Alonso,Renault,Melbourne,Australia,4
+Heidfeld,BMW,Melbourne,Australia,2
+Kovalainen,McLaren,Melbourne,Australia,5
+Vettel,Toro Rosso,Melbourne,Australia,0
+Trulli,Toyota,Melbourne,Australia,0
+Glock,Toyota,Melbourne,Australia,0
+Hamilton,McLaren,Sepang,Malesia,5
+Massa,Ferrari,Sepang,Malesia,0
+Raikkonen,Ferrari,Sepang,Malesia,1
+Kubica,BMW,Sepang,Malesia,2
+Alonso,Renault,Sepang,Malesia,8
+Heidfeld,BMW,Sepang,Malesia,6
+Kovalainen,McLaren,Sepang,Malesia,3
+Vettel,Toro Rosso,Sepang,Malesia,0
+Trulli,Toyota,Sepang,Malesia,4
+Glock,Toyota,Sepang,Malesia,0
+Hamilton,McLaren,Sakhir,Bahrain,0
+Massa,Ferrari,Sakhir,Bahrain,1
+Raikkonen,Ferrari,Sakhir,Bahrain,2
+Kubica,BMW,Sakhir,Bahrain,3
+Alonso,Renault,Sakhir,Bahrain,0
+Heidfeld,BMW,Sakhir,Bahrain,4
+Kovalainen,McLaren,Sakhir,Bahrain,5
+Vettel,Toro Rosso,Sakhir,Bahrain,0
+Trulli,Toyota,Sakhir,Bahrain,6
+Glock,Toyota,Sakhir,Bahrain,0
+Hamilton,McLaren,Barcellona,Spagna,3
+Massa,Ferrari,Barcellona,Spagna,2
+Raikkonen,Ferrari,Barcellona,Spagna,1
+Kubica,BMW,Barcellona,Spagna,4
+Alonso,Renault,Barcellona,Spagna,0
+Heidfeld,BMW,Barcellona,Spagna,0
+Kovalainen,McLaren,Barcellona,Spagna,0
+Vettel,Toro Rosso,Barcellona,Spagna,0
+Trulli,Toyota,Barcellona,Spagna,8
+Glock,Toyota,Barcellona,Spagna,0
+Hamilton,McLaren,Istanbul,Turchia,2
+Massa,Ferrari,Istanbul,Turchia,1
+Raikkonen,Ferrari,Istanbul,Turchia,3
+Kubica,BMW,Istanbul,Turchia,4
+Alonso,Renault,Istanbul,Turchia,6
+Heidfeld,BMW,Istanbul,Turchia,5
+Kovalainen,McLaren,Istanbul,Turchia,0
+Vettel,Toro Rosso,Istanbul,Turchia,0
+Trulli,Toyota,Istanbul,Turchia,0
+Glock,Toyota,Istanbul,Turchia,0
+Hamilton,McLaren,Montecarlo,Monaco,1
+Massa,Ferrari,Montecarlo,Monaco,3
+Raikkonen,Ferrari,Montecarlo,Monaco,0
+Kubica,BMW,Montecarlo,Monaco,2
+Alonso,Renault,Montecarlo,Monaco,0
+Heidfeld,BMW,Montecarlo,Monaco,0
+Kovalainen,McLaren,Montecarlo,Monaco,8
+Vettel,Toro Rosso,Montecarlo,Monaco,5
+Trulli,Toyota,Montecarlo,Monaco,0
+Glock,Toyota,Montecarlo,Monaco,0
+Hamilton,McLaren,Montreal,Canada,0
+Massa,Ferrari,Montreal,Canada,5
+Raikkonen,Ferrari,Montreal,Canada,0
+Kubica,BMW,Montreal,Canada,1
+Alonso,Renault,Montreal,Canada,0
+Heidfeld,BMW,Montreal,Canada,2
+Kovalainen,McLaren,Montreal,Canada,0
+Vettel,Toro Rosso,Montreal,Canada,8
+Trulli,Toyota,Montreal,Canada,6
+Glock,Toyota,Montreal,Canada,4
+Hamilton,McLaren,Magny-Cours,Francia,0
+Massa,Ferrari,Magny-Cours,Francia,1
+Raikkonen,Ferrari,Magny-Cours,Francia,2
+Kubica,BMW,Magny-Cours,Francia,5
+Alonso,Renault,Magny-Cours,Francia,8
+Heidfeld,BMW,Magny-Cours,Francia,0
+Kovalainen,McLaren,Magny-Cours,Francia,4
+Vettel,Toro Rosso,Magny-Cours,Francia,0
+Trulli,Toyota,Magny-Cours,Francia,3
+Glock,Toyota,Magny-Cours,Francia,0
+Hamilton,McLaren,Silverstone,Inghilterra,1
+Massa,Ferrari,Silverstone,Inghilterra,0
+Raikkonen,Ferrari,Silverstone,Inghilterra,4
+Kubica,BMW,Silverstone,Inghilterra,0
+Alonso,Renault,Silverstone,Inghilterra,6
+Heidfeld,BMW,Silverstone,Inghilterra,2
+Kovalainen,McLaren,Silverstone,Inghilterra,5
+Vettel,Toro Rosso,Silverstone,Inghilterra,0
+Trulli,Toyota,Silverstone,Inghilterra,7
+Glock,Toyota,Silverstone,Inghilterra,0
+Hamilton,McLaren,Hockenheim,Germania,1
+Massa,Ferrari,Hockenheim,Germania,3
+Raikkonen,Ferrari,Hockenheim,Germania,6
+Kubica,BMW,Hockenheim,Germania,7
+Alonso,Renault,Hockenheim,Germania,0
+Heidfeld,BMW,Hockenheim,Germania,4
+Kovalainen,McLaren,Hockenheim,Germania,5
+Vettel,Toro Rosso,Hockenheim,Germania,8
+Trulli,Toyota,Hockenheim,Germania,0
+Glock,Toyota,Hockenheim,Germania,0
+Hamilton,McLaren,Hungaroring,Ungheria,5
+Massa,Ferrari,Hungaroring,Ungheria,0
+Raikkonen,Ferrari,Hungaroring,Ungheria,3
+Kubica,BMW,Hungaroring,Ungheria,8
+Alonso,Renault,Hungaroring,Ungheria,4
+Heidfeld,BMW,Hungaroring,Ungheria,0
+Kovalainen,McLaren,Hungaroring,Ungheria,1
+Vettel,Toro Rosso,Hungaroring,Ungheria,0
+Trulli,Toyota,Hungaroring,Ungheria,7
+Glock,Toyota,Hungaroring,Ungheria,2
+Hamilton,McLaren,Valencia,Europa,2
+Massa,Ferrari,Valencia,Europa,1
+Raikkonen,Ferrari,Valencia,Europa,0
+Kubica,BMW,Valencia,Europa,3
+Alonso,Renault,Valencia,Europa,0
+Heidfeld,BMW,Valencia,Europa,0
+Kovalainen,McLaren,Valencia,Europa,4
+Vettel,Toro Rosso,Valencia,Europa,6
+Trulli,Toyota,Valencia,Europa,5
+Glock,Toyota,Valencia,Europa,7
+Hamilton,McLaren,Spa,Belgio,3
+Massa,Ferrari,Spa,Belgio,1
+Raikkonen,Ferrari,Spa,Belgio,0
+Kubica,BMW,Spa,Belgio,6
+Alonso,Renault,Spa,Belgio,4
+Heidfeld,BMW,Spa,Belgio,2
+Kovalainen,McLaren,Spa,Belgio,0
+Vettel,Toro Rosso,Spa,Belgio,5
+Trulli,Toyota,Spa,Belgio,0
+Glock,Toyota,Spa,Belgio,0
+Hamilton,McLaren,Monza,Italia,7
+Massa,Ferrari,Monza,Italia,6
+Raikkonen,Ferrari,Monza,Italia,0
+Kubica,BMW,Monza,Italia,3
+Alonso,Renault,Monza,Italia,4
+Heidfeld,BMW,Monza,Italia,5
+Kovalainen,McLaren,Monza,Italia,2
+Vettel,Toro Rosso,Monza,Italia,1
+Trulli,Toyota,Monza,Italia,0
+Glock,Toyota,Monza,Italia,0
+Hamilton,McLaren,Singapore,Singapore,3
+Massa,Ferrari,Singapore,Singapore,0
+Raikkonen,Ferrari,Singapore,Singapore,0
+Kubica,BMW,Singapore,Singapore,0
+Alonso,Renault,Singapore,Singapore,1
+Heidfeld,BMW,Singapore,Singapore,6
+Kovalainen,McLaren,Singapore,Singapore,0
+Vettel,Toro Rosso,Singapore,Singapore,5
+Trulli,Toyota,Singapore,Singapore,0
+Glock,Toyota,Singapore,Singapore,4
+Hamilton,McLaren,Fuji,Giappone,0
+Massa,Ferrari,Fuji,Giappone,7
+Raikkonen,Ferrari,Fuji,Giappone,3
+Kubica,BMW,Fuji,Giappone,2
+Alonso,Renault,Fuji,Giappone,1
+Heidfeld,BMW,Fuji,Giappone,0
+Kovalainen,McLaren,Fuji,Giappone,0
+Vettel,Toro Rosso,Fuji,Giappone,6
+Trulli,Toyota,Fuji,Giappone,5
+Glock,Toyota,Fuji,Giappone,0
+Hamilton,McLaren,Shangai,Cina,1
+Massa,Ferrari,Shangai,Cina,2
+Raikkonen,Ferrari,Shangai,Cina,3
+Kubica,BMW,Shangai,Cina,6
+Alonso,Renault,Shangai,Cina,4
+Heidfeld,BMW,Shangai,Cina,5
+Kovalainen,McLaren,Shangai,Cina,0
+Vettel,Toro Rosso,Shangai,Cina,0
+Trulli,Toyota,Shangai,Cina,0
+Glock,Toyota,Shangai,Cina,7
+Hamilton,McLaren,Interlagos,Brasile,5
+Massa,Ferrari,Interlagos,Brasile,1
+Raikkonen,Ferrari,Interlagos,Brasile,3
+Kubica,BMW,Interlagos,Brasile,0
+Alonso,Renault,Interlagos,Brasile,2
+Heidfeld,BMW,Interlagos,Brasile,0
+Kovalainen,McLaren,Interlagos,Brasile,7
+Vettel,Toro Rosso,Interlagos,Brasile,4
+Trulli,Toyota,Interlagos,Brasile,8
+Glock,Toyota,Interlagos,Brasile,6
